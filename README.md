@@ -112,6 +112,3 @@ Ensure you have the following installed:
 Big thanks to [**Adrian Hajdin**](https://www.youtube.com/@JavaScriptMastery) and the **JavaScript Mastery** team for their incredible tutorials and inspiration.
 
 ---
-
-#
-#
